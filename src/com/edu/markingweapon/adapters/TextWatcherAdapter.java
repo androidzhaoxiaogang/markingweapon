@@ -1,6 +1,6 @@
 
 
-package com.edu.markingweapon.adapter;
+package com.edu.markingweapon.adapters;
 
 import android.text.Editable;
 import android.text.TextWatcher;

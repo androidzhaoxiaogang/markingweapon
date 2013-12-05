@@ -7,6 +7,10 @@
     <string name="label_user">账号</string>
     <string name="label_password">密码</string>
     <string name="label_sign_in">登录</string>
+    <string name="message_signing_in">登录中&#8230;</string>
+    <string name="generic_server_down"> 网络超时</string>
+    <string name="no_internet"> 网络异常</string>
+    <string name="generic_error"> 未知错误</string>
     
 
 </resources>
